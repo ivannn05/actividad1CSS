@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+/*- background:aqua;
+- background:silver;
+- color:blue;
+- color:red;
+- font-family:verdana;
+- font-size:20px;
+- text-align:center;
+- text-align:right;
+*/
+
+
+
+/*Titulo arriba*/
+.arriba {
+    background:aqua;
+    text-align:center;
+}
+/*arriba palabra naranja*/
+.arriba1{
+	color:coral
+	
+}
+
+/*Titulo centro*/
+
+.centro{
+	background:silver;
+	 text-align:center;
+	
+}
+
+/*Titulo medio*/
+.medio{
+	 background:aqua;
+	text-align:right;
+	 
+}
+/*Medio palabra rojo*/
+
+.medio1{
+	color:red;
+	text-align:center;
+}
+
+/*Titulo abajo*/
+.abajo{
+	background:silver;
+	 text-align:center;
+}
