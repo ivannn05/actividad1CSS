@@ -11,17 +11,28 @@
 - text-align:right;
 */
 
-
+/*FONDO*/
+body{
+	 background-color:aqua;
+}
 
 /*Titulo arriba*/
 .arriba {
-    background:aqua;
+   
     text-align:center;
 }
 /*arriba palabra naranja*/
 .arriba1{
 	color:coral
 	
+}
+.cosa{
+	
+	color:blue;
+}
+.texto{
+	
+	color: blue;
 }
 
 /*Titulo centro*/
@@ -34,7 +45,7 @@
 
 /*Titulo medio*/
 .medio{
-	 background:aqua;
+	
 	text-align:right;
 	 
 }
